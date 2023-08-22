@@ -10,7 +10,7 @@
  * @precision: Precision specification
  * @size: Size specifier
  * Return: Number of chars printed.
- * by Natenael and Yohannes
+ * By  Natenael Tamirat and Yohannes Asfawosen
  */
 int print_pointer(va_list types, char buffer[],
 	int flags, int width, int precision, int size)
