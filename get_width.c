@@ -7,7 +7,7 @@
  * @list: list of arguments.
  *
  * Return: width.
- * by Natenael and Yohannes
+ * By  Natenael Tamirat and Yohannes Asfawosen
  */
 int get_width(const char *format, int *i, va_list list)
 {
